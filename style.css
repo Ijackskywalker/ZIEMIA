@@ -1,0 +1,40 @@
+body{
+    background-color: black;
+}
+*{
+    list-style: none;
+    text-decoration: none;
+}
+.container{
+
+
+}
+header{
+    margin-top: -20px;
+    text-align: center;
+    background-color: green;
+    width: 1900px;
+    height: 150px;
+
+}
+.left{
+    background-color: grey;
+    width: 25%;
+    height: 650px;
+    margin-top: -16px;
+}
+ul{
+    padding: 100px;
+    padding-top: 200px ;
+   
+}
+li{
+    font-size: 30px;
+    margin: 30px;
+}
+footer{
+
+    background-color: green;
+    height: 150px;  
+    
+}
